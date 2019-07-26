@@ -292,6 +292,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Apache HBase](http://hao.jobbole.com/hbase/)：针对大数据的Hadoop数据库。[官网](http://hbase.apache.org)
 * [Druid](http://hao.jobbole.com/druid/)：实时和历史OLAP数据存储，在聚集查询和近似查询方面表现不俗。[官网](http://druid.io)
 * [Infinispan](http://hao.jobbole.com/infinispan/)：针对缓存的高并发键值对数据存储。[官网](http://infinispan.org/)
+* [TiDB]()：开源分布式HTAP数据库，结合了传统的RDBMS和NoSQL的最佳特性。[官网](https://pingcap.com)
 
 <h3 id="distribution">发布</h3>
 
@@ -494,6 +495,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [OkHttp](http://hao.jobbole.com/okhttp/)：一个Android和Java应用的HTTP+SPDY客户端。[官网](http://square.github.io/okhttp/)
 * Undertow：基于NIO实现了阻塞和非阻塞API的Web服务器，在WildFly中作为网络层使用。[官网](http://undertow.io/)
 * unirest-java: Unirest 是一个轻量级的 HTTP 请求库，涵盖 Node、Ruby、Java、PHP、Python、Objective-C、.NET 等多种语言。可发起 GET, POST, PUT, PATCH, DELETE, HEAD, OPTIONS 请求。[官网](http://unirest.io/java)
+* brpc-java: java版baidu rpc框架，高性能、多协议、易扩展、低耦合。[官网](https://github.com/baidu/brpc-java)
+
 <h3 id="orm">ORM</h3>
 
 *处理对象持久化的API。*
@@ -551,7 +554,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Retrofit](http://hao.jobbole.com/retrofit/)：类型安全的REST客户端。[官网](http://square.github.io/retrofit/)
 * [Spark](http://hao.jobbole.com/sparkjava/)：受到Sinatra启发的Java REST框架。[官网](http://sparkjava.com/)
 * [Swagger](http://hao.jobbole.com/swagger/)：Swagger是一个规范且完整的框架，提供描述、生产、消费和可视化RESTful Web Service。[官网](http://swagger.io/)
-* [Blade](http://hao.jobbole.com/bladejava/)：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。[官网](https://github.com/biezhi/blade)
+* [Blade](http://hao.jobbole.com/bladejava/)：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。[官网](https://lets-blade.com/)
 
 <h3 id="science">科学计算与分析</h3>
 
@@ -646,6 +649,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [javatuples](http://hao.jobbole.com/javatuples/)：正如名字表示的那样，提供tuple支持。尽管目前tuple的概念还有留有争议。[官网](http://www.javatuples.org/)
 * [JCommander](http://hao.jobbole.com/jcommander/)：命令行参数解析器。[官网](http://jcommander.org/)
 * [Protégé](http://hao.jobbole.com/protege/)：提供存在论（ontology）编辑器以及构建知识系统的框架。[官网](http://protege.stanford.edu/)
+* [Hutool](https://github.com/looly/hutool)：一个Java工具集，缓存、HTTP、加密解密、DFA、JSON、分组配置文件、数据库操作、图片验证码、Excel读写、定时任务、模板引擎、邮件、Servlet、二维码、Emoji、分词等一系列工具类。[官网](https://hutool.cn)
 
 <h3 id="web-crawling">网络爬虫</h3>
 
@@ -672,7 +676,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Spring Boot](http://hao.jobbole.com/spring-boot/)：微框架，简化了Spring新程序的开发过程。[官网](http://projects.spring.io/spring-boot/)
 * [Spring](http://hao.jobbole.com/spring-framework/)：旨在简化Java EE的开发过程，提供依赖注入相关组件并支持面向切面编程。[官网](http://projects.spring.io/spring-framework/)
 * [Vaadin](http://hao.jobbole.com/vaadin/)：基于GWT构建的事件驱动框架。使用服务端架构，客户端使用Ajax。[官网](https://vaadin.com/)
-* Blade：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。[官网](https://github.com/biezhi/blade)
+* [Blade](http://hao.jobbole.com/bladejava/)：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。[官网](https://lets-blade.com/)
 
 <h3 id="Business-Process-Management">业务流程管理套件</h3>
 
